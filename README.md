@@ -4,20 +4,28 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde 
 
 ## Installation
 
-Öncelikle projeyi clonelayın. [Proje] (https://github.com/emtahmilci/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. 
 
-'git clone https://github.com/emtahmilci/kodluyoruzilkrepo.git'
+`git clone https://github.com/emtahmilci/kodluyoruzilkrepo.git`
 
 ## Usage
 
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-Lunix için:
+Linux için:
 
-'''cd kodluyoruzilkrepo
+```cd kodluyoruzilkrepo
 code . 
-'''
-!(Proje Fotoğrafı)[https://ibb.co/Y3KZS8t]
+```
+
+[![image](https://www.linkpicture.com/q/mdphoto.jpg)](https://www.linkpicture.com/view.php?img=LPic6345782e92b2f85625537)
+
+
+
+
+
+
 
 ## Contributing
 
